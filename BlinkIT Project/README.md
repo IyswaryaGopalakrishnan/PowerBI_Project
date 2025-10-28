@@ -1,4 +1,4 @@
-# 💼 Blinkit Analysis Dashboard
+# Blinkit Analysis Dashboard
 
 ## Project Overview
 This Power BI dashboard analyzes Blinkit's sales and outlet performance across different product types, outlet characteristics, and item metrics. It provides actionable insights into sales trends, outlet performance, and item popularity, with interactive features for dynamic exploration.
@@ -18,7 +18,9 @@ The dataset contains sales information for Blinkit items with the following colu
 - **Sales**  
 - **Rating**  
 
-The data was **cleaned and transformed using Power Query** for accuracy and consistency.
+The data was lightly cleaned using **Power Query**:  
+- Standardized fat content labels (e.g., "LF"/"low fat" → "Low Fat", "reg" → "Regular")  
+- Checked column quality to ensure consistency
 
 ## Key KPIs (Calculated Using Measures)
 - Total Sales  
