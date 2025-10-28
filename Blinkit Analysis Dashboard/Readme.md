@@ -45,4 +45,5 @@ The data was **cleaned and transformed using Power Query** for accuracy and cons
 - **Power Query** (for data cleaning and transformation)
 
 ## Dashboard Screenshot
-![Blinkit Dashboard](Blinkit_dashboard.png)
+![Blinkit Dashboard](Blinkit_Dashboard.png)
+
