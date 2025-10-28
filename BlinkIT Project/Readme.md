@@ -1,4 +1,4 @@
-# Blinkit Analysis Dashboard
+# BlinkIt Project
 
 ## Project Overview
 This Power BI dashboard analyzes Blinkit's sales and outlet performance across different product types, outlet characteristics, and item metrics. It provides actionable insights into sales trends, outlet performance, and item popularity, with interactive features for dynamic exploration.
